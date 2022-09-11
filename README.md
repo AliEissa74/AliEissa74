@@ -31,10 +31,12 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=visual-studio&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  ![XD](https://img.shields.io/badge/-XD-333333?style=flat&logo=adobe-xd)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
 
 <br/>
 
@@ -47,9 +49,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://ali-prof-website.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="www.linkedin.com/in/ALI1901"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://ali-prof-website.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.ali-prof-website.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="www.linkedin.com/in/ALI1901"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ali%20Sayed%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/ali_eissa_74/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ali_eissa_74-blue?style=flat-square&logo=instagram"></a>
-<a href="engalisayed66@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="engalisayed66@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-engalisayed66@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
