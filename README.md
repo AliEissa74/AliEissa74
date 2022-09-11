@@ -49,7 +49,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://ali-prof-website.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.ali-prof-website.netlify.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://ali-prof-website.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.ali-prof-website.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="www.linkedin.com/in/ALI1901"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ali%20Sayed%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/ali_eissa_74/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ali_eissa_74-blue?style=flat-square&logo=instagram"></a>
 <a href="engalisayed66@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-engalisayed66@gmail.com-blue?style=flat-square&logo=gmail"></a>
