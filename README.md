@@ -5,15 +5,16 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of New Cairo.
+- 🎓 &nbsp; Studying Computer Science at University of New Cairo.
 - 💼 &nbsp; Working as a Web Developer.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Technolgies</h3>
 
+<h4> 🛠 &nbsp;Web-Development</h4>
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Python](https://camo.githubusercontent.com/5525bb9ac51c2de13eb0283d875ffb43108ee3e42522518a4ebb4668a23df046/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c6a732c626f6f7473747261702c7461696c77696e646373732c6a71756572792c72656163742c7265647578)
   ![C#](https://img.shields.io/badge/-C++++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
