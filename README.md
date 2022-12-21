@@ -15,7 +15,7 @@
 #### Web-Development
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,jquery,react,redux)
 #### Programming Languages and Frameworks
-![My Skills](https://skillicons.dev/icons?i=c,java,python,php,laravel)
+![My Skills](https://skillicons.dev/icons?i=c#,java,python,php,laravel)
 #### Databases
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)
 #### Tools
