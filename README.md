@@ -29,11 +29,10 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h1> 🤝🏻 &nbsp;Connect with Me </h1>
 
-<p align="center">
-<a href="https://ali-prof-website.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.alisayed.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/ali-sayed-/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ali%20Sayed%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ali_eissa_74/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ali__eissa__74-blue?style=flat-square&logo=instagram"></a>
-<a href="engalisayed66@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-engalisayed66@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+<a href="https://www.linkedin.com/in/ali-sayed-/"/><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href=https://twitter.com/ali_eissa_74><img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href=https://www.hackerrank.com/alisayed74><img align="left" alt="hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+<a href=https://discord.com/users/463801304368545803><img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>  
+<br>
