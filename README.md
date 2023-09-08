@@ -4,12 +4,10 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at University of New Cairo.
 - 💼 &nbsp; Working as a Web Developer.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design.
 - 📫 &nbsp; How to reach me engalisayed66@gmail.com.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 ## Technologies:
 
