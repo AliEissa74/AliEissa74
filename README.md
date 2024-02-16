@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ali Sayed</h1>
-<h3 align="center">A passionate Full-stack Developer from Egypt</h3>
+<h3 align="center">A passionate Full-stack Web Developer</h3>
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 🎓 &nbsp; Studying Computer Science at University of New Cairo.
