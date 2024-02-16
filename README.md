@@ -4,10 +4,11 @@
 <h3 align="center">A passionate Full-stack Web Developer</h3>
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 🎓 &nbsp; Studying Computer Science at University of New Cairo.
+<!--- - 🎓 &nbsp; Studying Computer Science at University of New Cairo. -->
 - 💼 &nbsp; Working as a Web Developer.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design.
 - 📫 &nbsp; How to reach me engalisayed66@gmail.com.
+- 🔗 &nbsp; Check my links here [Ali Sayed](https://bento.me/alisayed).
 
 ## Technologies:
 
